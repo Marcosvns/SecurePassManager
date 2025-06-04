@@ -47,18 +47,18 @@
 ## 🛠️ Instalação
 
 
-### Clone o projeto
+### -Clone o projeto
    ```bash
    git clone https://github.com/Marcosvns/SecurePassManager
    cd SecurePassManager
    ```
 
-### Compile o projeto
+### -Compile o projeto
    ```bash
    mvn clean install
    ```
 
-### Execute o app
+### -Execute o app
    ```bash
    mvn exec:java -Dexec.mainClass="com.securepassmanager.Main"
    ```
